@@ -1,6 +1,7 @@
 
 # Call Center Survey
-
+![Screenshot 2024-07-10 140917](https://github.com/kasviaggarwal/Call-Center-Survey/assets/146510816/b97d5c69-6acd-4feb-8270-6a111c60d06a)
+![Screenshot 2024-07-10 140955](https://github.com/kasviaggarwal/Call-Center-Survey/assets/146510816/788bcef3-d760-4f30-af25-5db6bcca5961)
 **Project Overview**
 
 The objective of the call center analysis project in Power BI is to assess key performance metrics such as call volume, wait times, resolution rates, and customer satisfaction scores. The goal is to uncover opportunities for enhancing operational efficiency and service quality. By utilizing Power BI’s advanced visualization tools, the project aims to deliver actionable insights that can be used to optimize staffing levels, training programs, and customer service processes, ultimately improving overall performance and customer experience.
